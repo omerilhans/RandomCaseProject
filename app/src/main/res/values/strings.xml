@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomCaseProject</string>
+
+    <string name="title_add_user">İsim Ekle</string>
+    <string name="title_add_city">Şehir Ekle</string>
+    <string name="title_distribute">Dağıt</string>
+    <string name="hint_type_name">İsim girin</string>
+    <string name="hint_type_city">Şehir girin</string>
+</resources>
